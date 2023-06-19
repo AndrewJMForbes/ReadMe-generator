@@ -1,8 +1,8 @@
-# Something very cool!
+# README generator
   
 
   ## Description
-  this does things you need it to do!
+  This application creates a README file
 
   ## Table of contents
   - [Installation](#installation)
@@ -11,17 +11,17 @@
   - [Questions](#questions)
 
   ## Installation
-  Install it through GitBash 
+  open the command line, type npm i, type node index.js, and answer the prompts!
 
   ## Usage
-  The app does anything and everything you need it to do
+  To create a professional README file for an app or project!
 
   ## Contribute
-  Please add any contributions you feel are necessary
+  Any contributions are welcome!
 
-  ## Contact
+  ## Questions
   Contact me if you have additional questions.
-  Github: https://github.com/Forbes85	
+  Github: https://github.com/github.com/AndrewJMForbes
 
   Email: vudo8585@gmail.com
 
